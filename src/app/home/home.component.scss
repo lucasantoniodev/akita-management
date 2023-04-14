@@ -1,0 +1,18 @@
+mat-card {
+  width: 30%;
+  padding: 1.25rem;
+  margin: 2rem;
+  button {
+
+    width: auto;
+    float: right;
+  }
+}
+
+.add-todo-btn {
+  margin: 1em;
+}
+
+.complete {
+  text-decoration: line-through;
+}
